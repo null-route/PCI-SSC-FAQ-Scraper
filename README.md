@@ -4,4 +4,4 @@ This is a quick Python script that scrapes the PCI SSC's website for FAQ article
 
 [results.csv](https://github.com/null-route/PCI-SSC-FAQ-Scraper/blob/master/results.csv) includes the results of the script as of 07/03/2017.
 
-Inspired by [Rob Chahin](https://github.com/robchahin)'s previous scraper.
+Inspired by [Rob Chahin](http://www.robchahin.com/)'s previous scraper.
